@@ -1,0 +1,4 @@
+*.icns binary
+*.png binary
+*.car binary
+* text=auto
